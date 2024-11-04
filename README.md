@@ -13,7 +13,7 @@ python3 -m pip install --upgrade pip
 4. Install torch using
 
 ```
-pip3 install torch torchvision torchaudio
+pip install torch torchvision torchaudio
 ```
 
 5. Install detectron2, the instance segmentation framework used by ABECIS
